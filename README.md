@@ -1,7 +1,7 @@
 # wild-rydes-workshop-cdk-python
 Walked through the Wild Rydes Workshop and created it in the AWS CDK in python
 
-The [workshop](https://webapp.serverlessworkshops.io/)
+The [workshop](https://webapp.serverlessworkshops.io/) that I followed.
 
 I have removed parts of the source for the website as it contained aws account number and information.
 It is important to initialize it with the amplify cli anyway.
